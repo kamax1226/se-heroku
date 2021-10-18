@@ -1,0 +1,2 @@
+(this["webpackJsonpwaat-test"]=this["webpackJsonpwaat-test"]||[]).push([[3],{204:function(t,a){},52:function(t,a,e){"use strict";e.r(a);e(0);var n=e(352),s=e(162),c=e.n(s),i=e(226),p=e.n(i),o=e(16),r=e(1);c.a.configure({adapter:new p.a}),afterEach(n.a),describe("App",(function(){it("Renders App without crashing",(function(){Object(s.shallow)(Object(r.jsx)(o.default,{}))}))}))}}]);
+//# sourceMappingURL=App-index-test.09eb951e.chunk.js.map
