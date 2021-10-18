@@ -1,2 +1,0 @@
-(this["webpackJsonpwaat-test"]=this["webpackJsonpwaat-test"]||[]).push([[4],{204:function(t,e){},53:function(t,e,n){"use strict";n.r(e);n(0);var a=n(162),s=n.n(a),c=n(226),i=n.n(c),o=n(12),r=n(14),u=n(33),w=n(1);s.a.configure({adapter:new i.a}),describe("Home",(function(){it("Renders HomeView without crashing",(function(){Object(a.shallow)(Object(w.jsx)(o.a,{store:u.a,children:Object(w.jsx)(r.default,{})}))}))}))}}]);
-//# sourceMappingURL=Home-index-test.1174782a.chunk.js.map
